@@ -1,0 +1,33 @@
+html, body {
+  color: gold;
+  background-color: navy;
+}
+
+h1 {
+  font-size: 51px;
+  font-family: monospace, Arial, Times;
+  text-align: center;
+  outline-style: dashed;
+}
+
+ul {
+list-style-type: circle;
+}
+
+#first-p{
+  color: pink;
+  font-size: 37px;
+}
+
+#second-p{
+  color: greenyellow;
+  font-size: 37px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.red-font{
+  color: red;
+  margin-left: 10px;
+  margin-right: 10px;
+}
